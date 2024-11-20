@@ -376,4 +376,32 @@
 
     </category>
 
+    <category id="neoteric" title="@string/category_neoteric" featured="neoteric_oled">
+
+        <static-wallpaper
+            id="neoteric_default"
+            src="@drawable/neoteric_default"
+            title="@string/wallpaper_neoteric_default"
+            subtitle1="@string/author_ayush_shah" />
+
+        <static-wallpaper
+            id="neoteric_oled"
+            src="@drawable/neoteric_oled"
+            title="@string/wallpaper_neoteric_oled"
+            subtitle1="@string/author_ayush_shah" />
+
+        <static-wallpaper
+            id="neoteric_dark"
+            src="@drawable/neoteric_dark"
+            title="@string/wallpaper_neoteric_dark"
+            subtitle1="@string/author_ayush_shah" />
+
+        <static-wallpaper
+            id="neoteric_light"
+            src="@drawable/neoteric_light"
+            title="@string/wallpaper_neoteric_light"
+            subtitle1="@string/author_ayush_shah" />
+
+    </category>
+
 </wallpapers>

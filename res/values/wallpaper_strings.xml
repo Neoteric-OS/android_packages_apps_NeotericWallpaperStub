@@ -123,4 +123,12 @@
     <string name="author_viktor_forgacs">by Viktor Forgacs</string>
     <string name="wallpaper_elementary_viktor_forgacs_1">Viktor Forgacs</string>
     <string name="url_elementary_viktor_forgacs_1">https://unsplash.com/photos/q8XSCZYh6D8</string>
+
+    <!-- Neoteric -->
+    <string name="category_neoteric">Neoteric</string>
+    <string name="author_ayush_shah">by Ayush Shah</string>
+    <string name="wallpaper_neoteric_default">M3 Dino Adventures</string>
+    <string name="wallpaper_neoteric_oled">Dino On Planet (OLED)</string>
+    <string name="wallpaper_neoteric_dark">Dino On Planet (Dark)</string>
+    <string name="wallpaper_neoteric_light">Dino On Planet (Light)</string>
 </resources>
